@@ -1,0 +1,11 @@
+1. Db organise data, managing data. --> DBMS (Database Management System)
+2. NoSQL(Non-relational database - e.g Firebase / MongoDB / MariaDB)
+ & MySQL(Oracle / PostgresDB / MySQLite)
+3. PDO (PHP Data Object). mysqli -> deprecated
+4. Reduce SQL injection, we are going to use 'prepared' statements. 
+ Not a direct point to the data itself.
+
+ - SELECT
+ - INSERT / HTML FORM
+ - DELETE
+ - MODIFY Data
